@@ -19,7 +19,8 @@
         "drupal/core-composer-scaffold": "^9",
         "drupal/core-project-message": "^9",
         "drupal/core-recommended": "^9",
-        "drupal/vani": "^1.2"
+        "drupal/vani": "^1.2",
+        "drush/drush": "^10.3"
     },
     "conflict": {
         "drupal/drupal": "*"
